@@ -23,7 +23,9 @@ The dashboard is interactive and allows filtering by release year and genre.
 - Duration trends over time
 
 ## 📷 Dashboard Preview
-(Add your screenshot here)
+
+<img width="1343" height="739" alt="Screenshot 2026-03-22 144814" src="https://github.com/user-attachments/assets/86678639-4478-44fc-b1f1-7acffb88d1aa" />
+
 
 ## 📎 Project Link
 (Add your file / Google Drive / GitHub link)
