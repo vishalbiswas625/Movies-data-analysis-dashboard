@@ -26,6 +26,8 @@ The dashboard is interactive and allows filtering by release year and genre.
 
 <img width="1343" height="739" alt="Screenshot 2026-03-22 144814" src="https://github.com/user-attachments/assets/709bb7a5-e228-44bd-8409-1fa57a2b984d" />
 
+## Connect with Me
+LinkedIn: [(https://www.linkedin.com/in/vishal-biswas-829962345/)]
 https://github.com/vishalbiswas625/Movies-data-analysis-dashboard/tree/main
 
 
